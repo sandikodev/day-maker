@@ -3,10 +3,11 @@ ini adalah landing page yang menghubungkan banyak fungsi aplikasi web.
 secara inti, ide dari daymaker adalah aplikasi yang ditujukan untuk membuat hari(waktu) mu menjadi lebih ber-arti!
 
 ## Roadmap
-1. pengelola keuangan
-2. day-schedule\
+1. pengelola keuangan\
+   a. wishlist
+3. day-schedule\
    adalah sistem penjadwalan + notif (terintegrasi ke sistem operasi)
-3. day-wasted\
+4. day-wasted\
    a. timer extenstion (spa-based react or svelte)
    b. dapat terintegrasi dengan day-schedule
 
